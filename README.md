@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Ottawa%20%C2%B7%20Kanata-Canada-555?style=for-the-badge"/>
 </p>
 
-<a href="https://www.linkedin.com/in/liamrose-356636277">
+<a href="https://www.linkedin.com/in/rose-liam">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=LiamSeanRose&style=for-the-badge&color=0891b2&label=Profile+Views"/>
@@ -47,7 +47,7 @@ Network Analyst on the **WAN Operations** team at **Shared Services Canada** —
 | 🌐 **[multi-isp-edge-lab](https://github.com/LiamSeanRose/multi-isp-edge-lab)** | Three-ISP eBGP edge — local-pref tiers, AS-path prepending, communities, ECMP — with sub-second pyATS failover and Prometheus/Grafana observability. |
 | 🏗️ **[home-networking-lab](https://github.com/LiamSeanRose/home-networking-lab)** | Terraform-provisioned Proxmox lab; spine-leaf **VXLAN-EVPN** on cEOS, NAPALM/pyATS validation, Zeek + ELK security stack. |
 | 🧰 **[ansiform](https://github.com/LiamSeanRose/ansiform)** | Zero-egress, client-side alternative to AWX/AAP Surveys — a guided form that emits valid Ansible `group_vars`/`host_vars` with a live device-CLI preview. |
-| 🛠️ **[wan-ops-troubleshooting-lab](https://github.com/LiamSeanRose/wan-ops-troubleshooting-lab)** | Multi-site **MPLS L3VPN** lab for WAN-ops troubleshooting practice. |
+| 🪞 **[infra-twin](https://github.com/LiamSeanRose/infra-twin)** | Infrastructure Digital Twin — bitemporal graph model of live infrastructure (Apache AGE), cloud connector, FastAPI + React UI. |
 
 ---
 
